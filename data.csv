@@ -1,0 +1,15 @@
+#First Time
+
+git init
+git add Filename.extension
+git add Filename.extension (Run multiple times if multiple files)
+git commit -m "Descriptive Message"
+git branch -M main
+git remote add origin https://github.com/HassaanMughal/Demo2.git
+git push -u origin main
+
+#Second Time
+
+git add Filename.extension
+git commit -m "Descriptive Message"
+git push -u origin main
